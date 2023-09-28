@@ -1,4 +1,4 @@
-*.png
-*.txt
+/*.png
+/*.txt
 !start-json.txt
 !end-json.txt
