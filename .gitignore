@@ -1,4 +1,6 @@
+*.swp
 /*.png
+
 /*.txt
-!start-json.txt
 !end-json.txt
+!start-json.txt
